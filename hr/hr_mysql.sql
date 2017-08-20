@@ -1,3 +1,4 @@
+---Created by Suresh Reddy
 CREATE TABLE regions
    ( region_id INTEGER 
    , region_name VARCHAR(25) 
